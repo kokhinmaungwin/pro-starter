@@ -83,13 +83,13 @@ Optional:
 
 ## 🔐 Environment Setup
 
-Create ".env" file in project root.
+Create `.env` file in project root.
 
 Example:
 
-`PORT=3000
-MONGO_URI=mongodb://127.0.0.1:27017/prostarter
-JWT_SECRET=your_secret_key`
+`PORT=3000`
+`MONGO_URI=mongodb://127.0.0.1:27017/`
+`prostarter JWT_SECRET=your_secret_key`
 
 ---
 
