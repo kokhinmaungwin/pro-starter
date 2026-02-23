@@ -87,9 +87,9 @@ Create ".env" file in project root.
 
 Example:
 
-PORT=3000
+`PORT=3000
 MONGO_URI=mongodb://127.0.0.1:27017/prostarter
-JWT_SECRET=your_secret_key
+JWT_SECRET=your_secret_key`
 
 ---
 
@@ -97,22 +97,22 @@ JWT_SECRET=your_secret_key
 
 Clone repository:
 
-git clone <repository-url>
-cd pro-starter
+`git clone <repository-url>
+cd pro-starter`
 
 Install dependencies:
 
-npm install
+`npm install`
 
 ---
 
 ## ▶️ Run Server
 
-npm start
+`npm start`
 
 Server runs at:
 
-http://localhost:3000
+`http://localhost:3000`
 
 ---
 
